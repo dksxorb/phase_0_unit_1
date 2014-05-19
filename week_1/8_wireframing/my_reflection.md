@@ -10,4 +10,10 @@
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+*I learned that design and user experience go hand in hand. 
+*Yes it's very fun to lay out the design plans for a website. It's honestly more fun than coding it. The wireframe was not as fun. It's loads of work to do on the computer. I'd rather draw it out on paper and then code it separately. Maybe if I had 2 screens and bigger screens, wireframing wouldn't be as bad.
+*I figured out why certain websites look the way they do, based on user population, types of media, content, etc. There's alot of thought that goes into creating a website and sometimes it's hard for the website to fit every person's need.
+*I learned how to wireframe. And I learned how to think like a web designer.
+*I'm semi-confident. I know I have alot more to work so I can become more comfortable and confident with my coding.
+*I found the creative aspect particulary enjoyable.
+*Repeating tags and reviewing the code is tedious, but it's necessary. I hope it becomes muscle memory soon so I don't have to think too much about it.
