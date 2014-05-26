@@ -1,1 +1,52 @@
-/* include your css here */
+
+        body {background-image: url("http://i.minus.com/jojyc0FbwFqGm.png");}
+        
+        .container{width: 690px;
+                   margin:auto;}
+
+        #nav{
+            float: left;
+            width:120px;
+            height: 755px;
+            padding-top: 55px;}
+
+        #nav > h3 {
+          font-size: 1em;}
+
+        #nav > h2 {
+          text-align: center;}
+
+        #content{
+        height:810px;
+        width: 550px;
+        float: right;
+        padding-left: 10px;
+        padding-right: 10px;}
+
+        #header{background-color:;}
+        
+        #title{text-align:center;}
+        
+        #footer{
+        border-top: 5px solid black; 
+        text-align: center;
+        z-index: 1;
+        float: left;
+        width: 690px;}
+        
+        img{float:left;
+        margin-right: 10px;
+        margin-bottom: 5px;
+        margin-top:5px;
+        height:150px;}
+       
+        div {font-family: sans-serif;}
+       
+        ul{list-style-type:none;}
+       
+        a:link{text-decoration:none; }
+       
+        li{margin-left:-30px;
+          font-size: .75em;
+          padding-bottom: 5px;}
+       
