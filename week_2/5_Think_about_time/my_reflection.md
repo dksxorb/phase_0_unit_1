@@ -1,6 +1,13 @@
 # U1.W2: Thinking About Time Reflection
 
 * What is your biggest time management challenge with during Phase 0? 
+<br> My biggest time management challege is trying to balance the current commitments/responsibilities I have to my family, loved ones, and friends with my work. Whenever I find a small block of time to be able to code, something always happen to get in the way of my schedule and completely wreck my day for coding for an extended amount of time. I have a schedule that I set up but somehow I can't control the fact that the boiler in my house breaks, or that I have to pick up my brother during random times of the days because my parents can't schedule his day correctly, or that I have to walk my dog, clean the house, do the dishes, and help the kids class at my muay thai gym. I literally have no control sometimes.
 * How will you combat that? 
+<br>
+I have to prep my schedule with the intent that nothing is ever going to go according to my plans. With the idea that I have little to no control over these responsibilities, I'm going to need to find random blocks of time when I'm not needed which is usually early early morning or late late night to get my coding learning going. I'm going to have to keep a good control over my energy levels and provide myself with the right food and caffeine, at least until I move away from the house. 
 * What techniques will you try?
+<br>
+My favorite is the creating habits, tiny habits, etc... (all the habit related techniques). It's because usually I end up being so frazzled after fulfilling my commitments, it's hard for me to focus, or to get my mind into that habit of focusing right after a task. It's usually because I want to relax and take some time to breath and reset. If I can get my mind into the habit of breathing and reseting while I code (like a therapeutic motion) it can definitely help me. There's also small blocks of time throughout the day in which I can code. It's just not as long as I'd prefer. I can get into tiny habits of just automatically developing when time opens up. I usually watch fun videos on youtube to relax. But if I can find a fun method to develop and code, my work time can actually be my play time.
 * What is your overall plan for Phase 0?
+<br>
+My plan is to continue working on my developing techniques. To refine my developers work ethic. And to streamline everything that I'm doing so I can finish my work faster and more effectively and so that I'm having fun while I'm working. By making everything a little bit faster I could have more time to myself which in turn could lead to more developers project or more self-development projects.
