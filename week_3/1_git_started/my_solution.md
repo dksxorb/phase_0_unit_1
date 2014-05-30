@@ -25,7 +25,7 @@ This is gits main command. It's the red button that allows you to initiate the c
 Git gathers the commits from a target branch that's not in your current branch and stores it into the local repository. Nothing more. There is no merging or anything other action outside of that. It just grabs things and brings it to the repo and keeps it there.
 #### log
 <br>
-Log displays snapshots that have already been committed. It lists out the project history and allows you to filter and search for specific commits. With git log you can see the number of commits, if any commits have been pushed to the origin, all the commits that have affected a specific file, etc. It's a surprisingly powerful tool. 
+Log displays snapshots that have already been committed. It li785sts out the project history and allows you to filter and search for specific commits. With git log you can see the number of commits, if any commits have been pushed to the origin, all the commits that have affected a specific file, etc. It's a surprisingly powerful tool. 
 #### merge
 <br>
 Merge allows you to take the branch you were working on and merge it together with the master branch so that the original file is all updated.
@@ -52,7 +52,23 @@ It gives you a status of everything in the working directory and the staging are
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+
+cd to repository
+git status
+git add 
+git commit -m "note"
+git push
+
 - Fetch changes
+
+git fetch
+git merge
+
 - Commit locally
 
+git add
+git commit -m "note"
+
+
 ## Release 5: Reflection
+My strategy for this challenge was to read all the recommended articles pertaining to this topic and apply it. It was a very straightforward approach but I had problems trying to conceptually understand what was happening with all the commands including the relationship between the terminal and the remote repositories. I really wanted to get a decent understanding on the concept of git so I used alot of resources to get somewhat of a handle on them such as atlassian.com, thelucid.com, help.github.com, and stackoverflow.com. I had questions on how everything was really working and how git connected from the terminal to a remote source. I just get the feeling that I need to keep reading up on git because there's like a vague spatial/path awareness that's not clicking with me at the moment. I have a better understanding of all the git concepts especially the difference between "fetch" and "pull" because I thought they were basically doing the same things but I didn't see the nuances. I feel somewhat confident but again I'm going to need to let what I've learned just stew for a bit in my head. I enjoyed working with the terminal and seeing the necessary results on my remote/local files. Nothing was really tedious except for the whole researching aspect, I kept reading different methods of doing the same thing but it would get very specific and advanced so much that I would end up getting lost in the explanations; this happened multiple times.
