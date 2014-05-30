@@ -86,3 +86,16 @@ Attack(46,52)
  
 // Reflection:
 // Write your reflection here.
+<br>
+
+<p>
+The challenge was very straightforward, so my strategy was to complete the tasks required in the game and keep a note of what I did.
+I tried to keep the mindset of having to apply the concepts I learned in the game to another challenge in the future, however,
+I wasn not sure how this was really going to do anything for me. At one point I honestly thought that I was wasting my time. Sure,
+the game was mildly entertaining but there was no transferal of concepts or anything really javascript. The main question
+I had while playing the game was "how is this game going to help me learn javascript?" I did not really use any resources to help me find 
+the answer as the answer will come while I am working on the other challenges. I am not having any troubles currently as the
+challenge this time was very straightfoward but I also feel like I have not learned anything except how to control a character in a game.
+I feel confident so far with the Learning Competencies so far but I am still nervous to deal with the beast that is javascript.
+I did enjoy playing with the game for a bit until entering all the controls got a little tedius 5 or so missions in.
+
