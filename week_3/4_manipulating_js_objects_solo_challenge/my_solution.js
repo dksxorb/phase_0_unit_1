@@ -46,11 +46,20 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+var adam = {
+name: 'Adam',
+spouse: terah};
 
+var terah = {
+spouse: adam,
+weight: 125}
 
-
-
-
+terah.spouse.spouse = terah;
+terah.children = {};
+terah.children.carson = {name: "Carson"};
+terah.children.carter = {name: "Carter"};
+terah.children.colton = {name: "Colton"};
+adam.children = terah.children
 
 
 // __________________________________________
