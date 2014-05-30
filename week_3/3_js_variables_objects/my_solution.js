@@ -44,7 +44,7 @@ var members =["John", 1, 2, "Mary"]
 // how are these functions/elements working with one another. I traversed the internet looking for materials that'll give me a better
 // idea of how all the javascript elements were working with one another. There's still a lot content that I need to assimilate and get comfortable with.
 // I may have studied and gotten somewhat comfortable with the material but I'm nowhere near using javascript efficiently and intelligently.
-// I'm still getting used to the concept of objects/functions/models and I feel these take priority because these are the foundations of javascript.
+// I'm still getting used to the concept of objects/functions/methods and I feel these take priority because these are the foundations of javascript.
 // I did learn some basic javascript syntax which makes me happy because at least I'm taking steps forward into the javascript jungle.
 // I am nowhere near confident when it comes to javascript, hopefully that will not be the case in a couple of days.
 // I enjoyed learning everything about javascript and nothing was tedious becasue everything is so new. It's just scary when you start to get into the advanced side of javascript.
