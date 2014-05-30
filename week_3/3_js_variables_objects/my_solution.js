@@ -28,18 +28,26 @@ var members =["John", 1, 2, "Mary"]
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
 
-
+//I just did what the console asked for. Initially I made the secret number variable a 1 but when it asked for 7 I switched it to a 7, which I noticed fulfilled the first two requirements.
+//I continued by doing the same thing to the password section. However I did have a minor problem with deciding what boolean to create.
+//I was stuck at what I should do but it seemed like a pretty free situation so I coded a very simple boolean value and then I changed it to a false boolean value.
+//I continued to add the [] to create an array. Then I followed with 4 of the required elements.
 
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
-// 
-// 
-// 
+// While I was working on this challenge I had to refer back to my study materials on javascript. Even with the study materials
+// I had to use bits and pieces of google to figure out how to apply what I learned. I understood what the questions asked
+// but at the same I didn't understand. Sometime what the questions asked for felt a little vague because I wasn't used to 
+// javascript terminology. Or I wasn't used to javascript in general. I continued asking myself what's the basics for javascript and
+// how are these functions/elements working with one another. I traversed the internet looking for materials that'll give me a better
+// idea of how all the javascript elements were working with one another. There's still a lot content that I need to assimilate and get comfortable with.
+// I may have studied and gotten somewhat comfortable with the material but I'm nowhere near using javascript efficiently and intelligently.
+// I'm still getting used to the concept of objects/functions/models and I feel these take priority because these are the foundations of javascript.
+// I did learn some basic javascript syntax which makes me happy because at least I'm taking steps forward into the javascript jungle.
+// I am nowhere near confident when it comes to javascript, hopefully that will not be the case in a couple of days.
+// I enjoyed learning everything about javascript and nothing was tedious becasue everything is so new. It's just scary when you start to get into the advanced side of javascript.
 
 
 // __________________________________________
