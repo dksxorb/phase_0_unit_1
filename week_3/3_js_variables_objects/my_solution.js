@@ -4,10 +4,16 @@
 
 
 // Pseudocode
-// 
-// 
-// 
-// 
+// assign integer value for variable 'secretNumber'
+// reassign integer value of 7 to variable 'secretNumber'
+// assign string value for variable 'password'
+// assign string value of "just open the door" for variable 'password'
+// assign boolean value for variable 'allowedIn'
+// reassign boolean value of false for variable 'allowedIn'
+// create an empty array for variable 'members'
+// push string element "John" into array variable 'members'
+// push 2 more elements(numbers,string,etc.) into array variable 'members'
+// push a final string element "Mary" nto array variable 'members'
 
 
 // __________________________________________
