@@ -83,11 +83,19 @@ AttackXY(69,59)
 Attack(61,47)
 Attack(49,67)
 Attack(46,52)
- 
+
+//Questions
+//What is this referring to? Think programming-wise rather than in the terms of the game.
+//What does the () do in JavaScript?
+//What is the point of the semicolons?
+I think that 'this' is referring to the object that the function is a method of.
+The () groups and contains parameters and expressions which are passed to functions and control structures.
+The semicolon seperates the elements of the programs. It is a statement (complete set of instructions to the computers) seperator.
+
+
 // Reflection:
 // Write your reflection here.
 <br>
-
 <p>
 The challenge was very straightforward, so my strategy was to complete the tasks required in the game and keep a note of what I did.
 I tried to keep the mindset of having to apply the concepts I learned in the game to another challenge in the future, however,
