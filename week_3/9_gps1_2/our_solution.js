@@ -118,7 +118,7 @@ makeHeadline(liam);
 // We both agreed to switch driver and navigator roles and I started off as the navigator. Jonathan followed my navigations
 // with a great deal of patience and he would give me some recommendations as to which decisions we should make when it came
 // to coding the required material. We worked well together and we had a very good energy going that kept our conversations
-// engaged and out work efficient. When we did happen to come upon a problem (which was when we had to store a function within
+// engaged and our work efficient. When we did happen to come upon a problem (which was when we had to store a function within
 // and object) we decided to take a couple of minutes to ourselves to review some of our material and come back and converse
 // and work out the problem together. I really think the GPS session helped me gain a better understanding of Javascript concepts.
 // John Norton was our advisor and he would answer with great detail our questions when we were confused but he also knew when
