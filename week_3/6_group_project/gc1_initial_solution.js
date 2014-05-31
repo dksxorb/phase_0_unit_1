@@ -14,6 +14,9 @@ function assert (test, message, test_number) {
 	return true;
 }
 
+
+//This is where my solution starts
+
 function sum (array) {
 	sumTotal= 0;
 	for (var i = 0; i < array.length; i++) {
@@ -38,6 +41,8 @@ if(array.length % 2)
 else
 	return (array[half - 1] + array[half]) / 2.0;
 }
+
+//This is where my solution ends
 
 assert(
 	(sum instanceof Function),
