@@ -13,6 +13,7 @@ var terah = {
   eyeColor: "brown"
 }
 /* Pseudocode Section - write pseudocode for each challenge below.
+
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
 
@@ -52,7 +53,9 @@ spouse: terah};
 
 var terah = {
 spouse: adam,
-weight: 125}
+weight: 125,
+eyeColor:undefined
+}
 
 terah.spouse.spouse = terah;
 terah.children = {};
@@ -64,11 +67,19 @@ adam.children = terah.children
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
+
+
+// My strategy was the same as the previous exercise. I was going to go through each challenge step by step and try to gain
+// a deeper understanding of javascript. I was having some real problems reading and translating the challenge assertions
+// so that I can correctly write the correct java code. I don't understand why but it took me a longer amount of time than I expected
+// to write such a simple line of code. There was a disconnect between the whole translating the pseudocode and writing the actual code.
+// My biggest question was when I got to exercise 6. I didn't realize you could use dot notation and object literals in the same area 
+// without messing up the code I had to figure that out from a fellow cohort member. Also that spouse within a spouse part was unnecessary and annoying. 
+// I'm starting to get an inkling of a clue as to how I should write out my code, but it's still a challenge. I'm basically learning
+// a new language all over again, and it's not an easy one. As much as I complain about this challenge I feel as though I 
+// did alright. It didn't take too long, minus property within a property part, and some of the concepts for Javascript were clicking.
+// I'm beginning to gain a better understanding of what objects, properties, and values are and I'm learning which notations to use when writing the code.
+// I enjoyed learning new ways to use javascript so there wasn't anything I found too tedious aside from trying to figure the spouse within a spouse part.
 // 
 
 
