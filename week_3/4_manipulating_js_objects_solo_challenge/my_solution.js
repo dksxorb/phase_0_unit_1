@@ -54,9 +54,9 @@ spouse: terah};
 var terah = {
 spouse: adam,
 weight: 125,
-eyeColor:undefined
 }
 
+delete terah.eyeColor;
 terah.spouse.spouse = terah;
 terah.children = {};
 terah.children.carson = {name: "Carson"};
