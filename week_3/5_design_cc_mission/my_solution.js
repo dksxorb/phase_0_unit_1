@@ -11,26 +11,19 @@
 // 
 
 // Pseudocode
-// Make object Tharin
-// Make object ogre
-// Make object pipe
-
-// Move Tharin to pipe location
+// Size of the dungeon 5x6. Size of the cell 5x4. 
+// Move Tharin near pipe location (5,6)
 // Tharin picks up pipe when he steps near the pipe
 // Move Tharin close to cell door
 // Taunt Ogre with any string that contains Mother
-// Ogre says don't you talk about my mother
-// Ogre moves to door
+// Ogre moves to door (2,2)
 // Ogre opens door
-// Tharin hits ogre once
+// Tharin hits ogre
 // Ogre goes unconscious
 // Move Tharin Down
 // Move Tharin Right to the exit
 
 // Initial Code
-
-
-
 
 
 
