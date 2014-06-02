@@ -97,3 +97,23 @@ assert(
 	"median should return the median value of all elements in an array with an even length.",
 	"9. "
 );
+
+//REFLECT
+
+
+// The first thing that my group members and I needed to do was communicate. We had to reach out to one another and set
+// up a schedule and find out who could start the group project. Thankfully we were all able to respond and get a general
+// idea of everyones' situation through e-mail. Alot of us were busy and we also weren't completely comfortable with 
+// the material earlier on in the week so we ended up pushing the start day of the project til around friday. I didn't have
+// any questions while I was coding, but I did refer to the intro to javascript material for loops during my portion of
+// the challenge. I actually had some trouble understanding how the loop function works, but as I typed it in and worked
+// it out, things started to click. I feel pretty confident with the basics of loops. I'm not sure what would happen if
+// we went to more advanced techniques for loops, but I do feel like I can hold my own for a little bit in basic loop concepts.
+// I enjoyed this challenge because I actually felt as though I were coding javascript like a veteran coder, which really
+// isn't the case, but it's fun to imagine. There was nothing tedious about this challenge.
+// I can definitely say that this group challenge was an interesting experience. It's alot easier setting up schedules
+// with just a pair. However, when more and more people come in, things start to get a little more chaotic and communication
+// becomes an integral part of making sure the work gets done. It's awesome in that the workload gets spread thin, however,
+// there appears to be more work on the organizing side of group projects. Yes our group was successful. I learned that 
+// writing user stories, pseudocoding, writing code, refactoring, etc... all really facilitate the coding process. Although
+// it may be a little bit of work in the beginning, it helps to keep a record of the process of how the coding comes to be.
