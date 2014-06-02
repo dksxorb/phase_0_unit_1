@@ -25,6 +25,12 @@
 
 // Initial Code
 
+var tharin = {};
+var ogre = {};
+var pipe = {};
+
+
+
 
 
 // Refactored Code
