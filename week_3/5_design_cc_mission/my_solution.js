@@ -41,8 +41,15 @@ var pipe = {};
 
 
 // Reflection
-// 
-// 
+// I had a surprisingly difficult time trying to code this mission. It was a fairly simple mission. You send Tharin to get
+// a pipe in a certain location. Then you go near the door, taunt the guard, hit the guard and run away. Who knew that 
+// trying to code such simple actions would take such a long time. I don't think I am comfortable enough with my JavaScript
+// to fully manipulate the code for developing my mission. I did extensive research for javascript, but I also think I 
+// made the mistake of underestimating how large of a project it would be. Even the smallest of project would take a lot
+//  more hours than necessary. I had fun thinking up the game and writing the pseudocode but when it came down to the 
+// nitty-gritty coding it was very difficult. I'm going to have to come back to this challenge to finish up what I started
+// and to continue my application of the JavaScript that I learned. It was fun but extremely difficult. I should've accounted 
+// for more time for this challenge.
 // 
 // 
 // 
